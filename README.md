@@ -1,1 +1,1 @@
-# tempdir
+This is a temporary readme file
